@@ -10,9 +10,9 @@ This project is a Todolist ASP.NET Core Web API project for managing a todo list
 
 ### Steps
 
-1. Navigate to Project Directory
+1. Navigate to Project Directory.
    - cd TodoListProject
-2. Install Entity Framework Core Packages
+2. Install Entity Framework Core Packages.
    - dotnet add package Microsoft.EntityFrameworkCore
    - dotnet add package Microsoft.EntityFrameworkCore.Sqlite
    - dotnet add package Microsoft.EntityFrameworkCore.Tools
